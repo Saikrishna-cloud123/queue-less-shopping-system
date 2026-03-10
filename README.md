@@ -17,10 +17,13 @@ A web-based self-checkout system that eliminates supermarket checkout queues by 
 - Firebase Hosting
 
 ## 🌐 Live Demo
-(Add your Firebase hosting link here)
+https://queue-less-shopping.web.app/
 
 ## 📸 Screenshots
-(Add screenshots of your app interface)
+<img width="1907" height="965" alt="Screenshot 2026-03-10 224546" src="https://github.com/user-attachments/assets/10ce2d3a-417a-47f8-a3d9-650997021abd" />
+<img width="1907" height="965" alt="Screenshot 2026-03-10 224546" src="https://github.com/user-attachments/assets/10ce2d3a-417a-47f8-a3d9-650997021abd" />
+
+
 
 ## 📂 Project Structure
 queue-less-shopping-system
