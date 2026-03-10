@@ -27,10 +27,10 @@ https://queue-less-shopping.web.app/
 
 ## 📂 Project Structure
 queue-less-shopping-system
+
 ├── index.html  
 ├── style.css
-├── app.js  
-├── app.js  
+├── app.js    
 ├── firebase.json  
 
 ## 📌 Future Improvements
