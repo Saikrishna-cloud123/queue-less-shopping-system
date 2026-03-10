@@ -30,7 +30,6 @@ queue-less-shopping-system
 
 ├── index.html  
 ├── style.css
-
 ├── app.js    
 ├── firebase.json  
 
