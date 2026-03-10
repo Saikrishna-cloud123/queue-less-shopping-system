@@ -2,7 +2,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebas
 import { getDatabase, ref, get, child, set, update } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-database.js";
 
 const firebaseConfig = {
-apiKey: "AIzaSyBXXJ335FV43y8KKtpQjHqHBkpaAx1t5s8",
+apiKey: "AIzaSyDwFsfL6UEb02lIIWS2LJs4Ut-Nxh7Px3s",
 authDomain: "queue-less-shopping.firebaseapp.com",
 databaseURL: "https://queue-less-shopping-default-rtdb.firebaseio.com",
 projectId: "queue-less-shopping",
