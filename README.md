@@ -23,6 +23,8 @@ https://queue-less-shopping.web.app/
 <img width="1907" height="965" alt="Screenshot 2026-03-10 224546" src="https://github.com/user-attachments/assets/10ce2d3a-417a-47f8-a3d9-650997021abd" />
 
 
+
+
 ## 📂 Project Structure
 queue-less-shopping-system
 │
